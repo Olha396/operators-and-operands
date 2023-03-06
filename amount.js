@@ -17,4 +17,4 @@ let sum = 0;
 
 getSum(5, 3); // result: 8
 getSum(-11, 3); // result: -8
-getSum(0.2, 0.7); // result: 0.9
+getSum(0.2, 0.7); // result: 0.9 
